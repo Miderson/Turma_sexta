@@ -1,8 +1,13 @@
-h1 {color:red;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-h1 {font-size:500%
+h1 {
+    color:red;
+    font-size:500%
 }
 
-#imagem-um{width: 50%;
+#imagem-um{
+    width: 50%;
 }
